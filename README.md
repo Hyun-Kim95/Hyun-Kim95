@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=or-the-badge-square&logo=GitHub&logoColor=white"/>
 
-![Footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=80&section=footer)
